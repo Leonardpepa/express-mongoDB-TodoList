@@ -12,4 +12,7 @@ to install this project:
 
 requirements:
   node.js
-  MongoDb
+  MongoDB
+
+
+Or you can see it live here: https://serene-lowlands-60843.herokuapp.com/ hosted on heroku with mongoDB ATLAS
