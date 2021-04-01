@@ -1,6 +1,6 @@
 # express-mongoDB-TodoList
 Todo List made from udemy course: 2021 Complete Web Develoment course from angela yu
-technologies used: node.js, express, MongoDB, mongoose, bodyParser, loadash 
+technologies used: node.js, express, ejs, MongoDB, mongoose, bodyParser, loadash 
 
 to install this project:
   git clone https://github.com/Leonardpepa/express-mongoDB-TodoList.git
