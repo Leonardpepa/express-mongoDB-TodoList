@@ -12,13 +12,12 @@ bodyParser,
 loadash, 
 
 ## instalation
-
+```node.js
   git clone https://github.com/Leonardpepa/express-mongoDB-TodoList.git
-  cd to project
-  run npm install to install the dependencies
-  to start the app run node app.js
+  run npm instal
   run mongod in the terminal
-  and open the browser to localhost 3000
+  run node app.js
+  open localhost:3000
 
 ## requirements
   node.js
