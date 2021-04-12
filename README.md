@@ -18,7 +18,7 @@ loadash,
   run mongod in the terminal
   run node app.js
   open localhost:3000
-
+  ```
 ## requirements
   node.js
   MongoDB
