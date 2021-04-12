@@ -1,4 +1,4 @@
-# express-mongoDB-TodoList
+## express-mongoDB-TodoList
 Todo List made from udemy course: 2021 Complete Web Develoment course from angela yu
 technologies used: node.js, express, ejs, MongoDB, mongoose, bodyParser, loadash 
 
