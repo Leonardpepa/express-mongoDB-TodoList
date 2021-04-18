@@ -24,6 +24,5 @@ loadash,
   MongoDB
 
 
-## live: 
-https://serene-lowlands-60843.herokuapp.com - automatic!
+## live: https://serene-lowlands-60843.herokuapp.com
 ### hosted on heroku with mongoDB ATLAS
