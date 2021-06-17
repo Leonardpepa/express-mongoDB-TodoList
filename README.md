@@ -3,8 +3,8 @@ Todo List made from udemy course: 2021 Complete Web Develoment course from angel
 
 ## technologies
 
-node.js,
-express,
+*node.js,
+*express,
 ejs,
 MongoDB, 
 mongoose, 
